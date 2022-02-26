@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on PT. Nirvana Yoga Indonesia
-🌱 I’m currently learning Swift & Objective C
-👯 I’m looking to collaborate on React & React Native project
-📫 How to reach me: richardangka@icloud.com
-⚡ Fun fact: Fast Learner
+🔭 I’m currently working on PT. Nirvana Yoga Indonesia<br>
+🌱 I’m currently learning Swift & Objective C<br>
+👯 I’m looking to collaborate on React & React Native project<br>
+📫 How to reach me: richardangka@icloud.com<br>
+⚡ Fun fact: Fast Learner<br>
 <!--
 **RichardAngka/RichardAngka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
